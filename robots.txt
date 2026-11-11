@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://remichat.github.io/sylvestrechatenay.fr/sitemap.xml
